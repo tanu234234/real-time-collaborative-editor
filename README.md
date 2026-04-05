@@ -1,3 +1,15 @@
+**COMPANY**: CODTECH IT SOLUTIONS PVT.LTD
+
+**NAME**: Tanushree K A
+
+**INTERN ID**: CTIS6658
+
+**DOMAIN**: FULL STACK WEB DEVELOPMENT
+
+**DURATION**: 4 WEEKS
+
+**MENTOR**: NEELA SANTHOSH
+
 # Real-Time Collaborative Document Editor
 
 A web-based application that allows multiple users to edit a document simultaneously in real time. The system uses WebSockets to synchronize document changes instantly between connected users, similar to collaborative platforms like Google Docs.
@@ -85,5 +97,7 @@ Server 1:
 <img width="1600" height="508" alt="Image" src="https://github.com/user-attachments/assets/3955f6b3-94cf-403f-902b-1e2d90967fcd" />
 
 Server 2:
+
+<img width="1600" height="438" alt="Image" src="https://github.com/user-attachments/assets/571c7f23-8d17-4de6-870a-acf567d640f7" />
 
 
