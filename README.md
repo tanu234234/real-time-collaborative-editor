@@ -77,3 +77,13 @@ Tanu
 ## 📄 License
 
 This project is for educational and learning purposes.
+
+# Output 
+
+Server 1:
+
+<img width="1600" height="508" alt="Image" src="https://github.com/user-attachments/assets/3955f6b3-94cf-403f-902b-1e2d90967fcd" />
+
+Server 2:
+
+
